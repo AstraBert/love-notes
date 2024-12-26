@@ -24,7 +24,7 @@ plugins:
 - jekyll-paginate
 
 # 3. Gem settings
-paginate: 4 # jekyll-paginate > items per page
+paginate: 5 # jekyll-paginate > items per page
 paginate_path: page:num # jekyll-paginate > blog page
 
 # 4. Jekyll settings
@@ -58,10 +58,10 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-title: "Ich Liebe Dich" # Site name or title
+title: "LoveNotes" # Site name or title
 logo: "/assets/logo.svg" # Site logo
-# favicon: "/favicon.ico" # Uncomment to add custom favicon, or leave as is to use site logo
-description: "Uber alles in der Welt, bis der Mond und zuruck" # Site description and default description
+favicon: "/favicon.ico" # Uncomment to add custom favicon, or leave as is to use site logo
+description: "Share your love through poems, songs, and other notes" # Site description and default description
 url: "https://astrabert.github.io" # Site url
 baseurl: "/love-notes" # Site baseurl
 lang: en-GB
