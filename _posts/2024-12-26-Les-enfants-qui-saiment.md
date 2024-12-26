@@ -7,19 +7,34 @@ category: Poems
 
 <!-- more -->
 
-### Les enfants qui s'aiment - Jacques Prevert, 1951
+### Les enfants qui s'aiment - Jacques Prevert
 
-_Les enfants qui s'aiment s'embrassent debout_
-_Contre les portes de la nuit_
-_Et les passants qui passent les désignent du doigt_
-_Mais les enfants qui s'aiment_
-_Ne sont là pour personne_
-_Et c'est seulement leur ombre_
-_Qui tremble dans la nuit_
-_Excitant la rage des passants_
-_Leur rage, leur mépris, leurs rires et leur envie_
-_Les enfants qui s'aiment ne sont là pour personne_
-_Ils sont ailleurs bien plus loin que la nuit_
-_Bien plus haut que le jour_
+_Les enfants qui s'aiment s'embrassent debout /_
+_Contre les portes de la nuit /_
+_Et les passants qui passent les désignent du doigt /_
+_Mais les enfants qui s'aiment /_
+_Ne sont là pour personne /_
+_Et c'est seulement leur ombre /_
+_Qui tremble dans la nuit /_
+_Excitant la rage des passants /_
+_Leur rage, leur mépris, leurs rires et leur envie /_
+_Les enfants qui s'aiment ne sont là pour personne /_
+_Ils sont ailleurs bien plus loin que la nuit /_
+_Bien plus haut que le jour /_
 _Dans l'éblouissante clarté de leur premier amour._
 
+### Teen lovers
+
+_Teen lovers embrace upright /_
+_Against night’s doors /_
+_And passers-by who pass by point their finger at them /_
+_But teen lovers /_
+_Are there for no one /_
+_And it’s only their shadow /_
+_Which quivers in the night /_
+_Stirring up the anger of the passers-by /_
+_Their anger, their contempt, their laughs and their desire /_
+_Teen lovers are there for no one /_
+_They’re elsewhere much further than the night /_
+_Much higher than the day /_
+_In the dazzling light of their first love. /_

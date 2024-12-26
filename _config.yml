@@ -37,7 +37,7 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Love Notes # Needed for Siteleaf
+    title: Notes # Needed for Siteleaf
     output: true
     description: "Love notes transcend distance, time, cultural differences. Love notes are for souls, forever" # The post list page content
 
